@@ -1,6 +1,7 @@
 # Hello!, I'm Bruno Sales 🙋‍♂️
 
 ![Bruno Sales GitHub stats](https://github-readme-stats.vercel.app/api?username=brunossales&show_icons=true&theme=radical)
+
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunossales&layout=compact&langs_count=16&theme=dracula)
