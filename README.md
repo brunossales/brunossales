@@ -1,10 +1,14 @@
 # Hello!, I'm Bruno Sales 🙋‍♂️
 
-![Bruno Sales GitHub stats](https://github-readme-stats.vercel.app/api?username=brunossales&show_icons=true&theme=radical)
+<div align="center">
 
-<br>
+  <a href="https://github.com/brunossales">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunossales&layout=compact&langs_count=16&theme=dracula)
+  <img height=170em src="https://github-readme-stats.vercel.app/api?username=brunossales&show_icons=true&theme=radical"/>
+
+  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunossales&layout=compact&langs_count=16&theme=dracula"/>
+
+</div>
 
 ## Connect with me: ⤵
 
